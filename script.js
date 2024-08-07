@@ -30,9 +30,9 @@ listContainer.addEventListener("click",function(e){
 },false);
 
 function saveData(){
-    localStorage.setItem("dragonratio", listContainer.innerHTML)
+    localStorage.setItem("data", listContainer.innerHTML)
 }
 function showTask(){
-    listContainer.innerHTML=localStorage.getItem("dragonratio");
+    listContainer.innerHTML=localStorage.getItem("data");
 }
 showTask();
