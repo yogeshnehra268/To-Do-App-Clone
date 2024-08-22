@@ -6,6 +6,8 @@
 
 This is a simple and intuitive To-Do List app built using HTML, CSS, and JavaScript. The app allows users to manage their daily tasks effectively by adding and deleting items from their list. The design is clean and minimalistic, focusing on usability and functionality.
 
+Visit: **https://nehra-todo-app.netlify.app/**
+
 ## Features
 
 - **Add Tasks**: Quickly add new tasks to your to-do list.
